@@ -1,0 +1,33 @@
+{
+ "run": "gen-nav-id-k25-s2-7.5k-cpu-outer",
+ "results": {
+  "fake_torino": {
+   "return_mean": 4.094083333333334,
+   "return_std": 2.6848793756096545,
+   "length_mean": 78.93,
+   "success_rate": 0.94,
+   "circuits": 7893,
+   "seconds": 443.9289391040802,
+   "episodes": 100,
+   "physical_qubits": [
+    99,
+    98,
+    92
+   ]
+  },
+  "fake_brisbane": {
+   "return_mean": 4.168333333333334,
+   "return_std": 2.013030698373126,
+   "length_mean": 86.24,
+   "success_rate": 0.97,
+   "circuits": 8624,
+   "seconds": 316.1699929237366,
+   "episodes": 100,
+   "physical_qubits": [
+    39,
+    33,
+    40
+   ]
+  }
+ }
+}

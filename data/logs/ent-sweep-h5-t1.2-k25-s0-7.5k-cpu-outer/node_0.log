@@ -1,0 +1,200 @@
+round 1/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.8     0.4844        0.0s  active        -2.876         -2.82          0.34         247.7         1.975          1.02
+  TOTAL     150     11.8     0.4844        0.0s                -2.876         -2.82          0.34         247.7         1.975          1.02
+round 2/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.6     0.6101        0.0s  active        -2.597        -2.739          0.36         243.9         1.955         1.239
+  TOTAL     150     11.6     0.6101        0.0s                -2.597        -2.739          0.36         243.9         1.955         1.239
+round 3/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.4     0.6590        0.0s  active        -1.705        -2.794          0.45         227.5         1.947         1.328
+  TOTAL     150     11.4     0.6590        0.0s                -1.705        -2.794          0.45         227.5         1.947         1.328
+round 4/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     0.6952        0.0s  active         -2.27        -1.798           0.4         243.7         1.923         1.395
+  TOTAL     150     12.0     0.6952        0.0s                 -2.27        -1.798           0.4         243.7         1.923         1.395
+round 5/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.2     0.6329        0.0s  active        -2.076        -1.719          0.41         240.8         1.887         1.269
+  TOTAL     150     12.2     0.6329        0.0s                -2.076        -1.719          0.41         240.8         1.887         1.269
+round 6/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.2     0.6730        0.0s  active        -2.088        -1.941          0.38         233.4         1.815         1.354
+  TOTAL     150     12.2     0.6730        0.0s                -2.088        -1.941          0.38         233.4         1.815         1.354
+round 7/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     0.7804        0.0s  active       -0.9616        -1.205          0.51           215         1.723         1.568
+  TOTAL     150     12.0     0.7804        0.0s               -0.9616        -1.205          0.51           215         1.723         1.568
+round 8/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     0.7878        0.0s  active        -1.822        -1.126           0.4         226.9         1.655          1.58
+  TOTAL     150     11.9     0.7878        0.0s                -1.822        -1.126           0.4         226.9         1.655          1.58
+round 9/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     0.8138        0.0s  active        -1.681       -0.7273          0.42         227.3         1.568         1.619
+  TOTAL     150     11.5     0.8138        0.0s                -1.681       -0.7273          0.42         227.3         1.568         1.619
+round 10/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     0.8667        0.0s  active        -1.319       -0.5363          0.44         218.8         1.526         1.721
+  TOTAL     150     11.9     0.8667        0.0s                -1.319       -0.5363          0.44         218.8         1.526         1.721
+round 11/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     0.8646        0.0s  active         -1.25        0.3243          0.44         217.7         1.509         1.709
+  TOTAL     150     11.7     0.8646        0.0s                 -1.25        0.3243          0.44         217.7         1.509         1.709
+round 12/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     0.8987        0.0s  active       -0.7275      -0.08372          0.52         213.7         1.524         1.792
+  TOTAL     150     12.0     0.8987        0.0s               -0.7275      -0.08372          0.52         213.7         1.524         1.792
+round 13/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     0.9713        0.0s  active        0.5721        0.6848          0.65           183         1.514         1.941
+  TOTAL     150     11.9     0.9713        0.0s                0.5721        0.6848          0.65           183         1.514         1.941
+round 14/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     1.0835        0.0s  active        0.3858         1.266          0.65         191.3         1.507         2.168
+  TOTAL     150     11.7     1.0835        0.0s                0.3858         1.266          0.65         191.3         1.507         2.168
+round 15/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     1.0427        0.0s  active        0.7436         1.044          0.69         185.8         1.508         2.082
+  TOTAL     150     11.5     1.0427        0.0s                0.7436         1.044          0.69         185.8         1.508         2.082
+round 16/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     1.1284        0.0s  active          1.49         1.412          0.78         170.6         1.501         2.231
+  TOTAL     150     11.9     1.1284        0.0s                  1.49         1.412          0.78         170.6         1.501         2.231
+round 17/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.3     1.0245        0.0s  active         1.284        0.9764          0.76         177.4         1.537         2.038
+  TOTAL     150     11.3     1.0245        0.0s                 1.284        0.9764          0.76         177.4         1.537         2.038
+round 18/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     1.0527        0.0s  active         2.019         1.957          0.82         158.6         1.508         2.101
+  TOTAL     150     11.7     1.0527        0.0s                 2.019         1.957          0.82         158.6         1.508         2.101
+round 19/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.3     0.9823        0.0s  active         1.726         1.809           0.8         169.2         1.461         1.956
+  TOTAL     150     11.3     0.9823        0.0s                 1.726         1.809           0.8         169.2         1.461         1.956
+round 20/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.8     1.0129        0.0s  active         2.338         1.759          0.87         156.3         1.442         2.034
+  TOTAL     150     11.8     1.0129        0.0s                 2.338         1.759          0.87         156.3         1.442         2.034
+round 21/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.2     1.0136        0.0s  active         2.356         2.451          0.86         153.9         1.405         2.031
+  TOTAL     150     11.2     1.0136        0.0s                 2.356         2.451          0.86         153.9         1.405         2.031
+round 22/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     0.9879        0.0s  active          2.03         2.336          0.82         159.4         1.411         1.976
+  TOTAL     150     11.5     0.9879        0.0s                  2.03         2.336          0.82         159.4         1.411         1.976
+round 23/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.6     1.0347        0.0s  active         1.956         1.956           0.8         159.1         1.404         2.068
+  TOTAL     150     11.6     1.0347        0.0s                 1.956         1.956           0.8         159.1         1.404         2.068
+round 24/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     1.0887        0.0s  active         1.535         1.985          0.74         165.2         1.395          2.18
+  TOTAL     150     11.7     1.0887        0.0s                 1.535         1.985          0.74         165.2         1.395          2.18
+round 25/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     1.0819        0.0s  active         2.317         2.086          0.83         148.7         1.404         2.165
+  TOTAL     150     11.5     1.0819        0.0s                 2.317         2.086          0.83         148.7         1.404         2.165
+round 26/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     1.1288        0.0s  active         1.756         2.772          0.77         157.2         1.392         2.257
+  TOTAL     150     11.9     1.1288        0.0s                 1.756         2.772          0.77         157.2         1.392         2.257
+round 27/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     1.1371        0.0s  active         1.422         3.075          0.75         171.1         1.389         2.266
+  TOTAL     150     12.0     1.1371        0.0s                 1.422         3.075          0.75         171.1         1.389         2.266
+round 28/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     1.1582        0.0s  active         1.494          2.55          0.77         170.8         1.398         2.307
+  TOTAL     150     11.9     1.1582        0.0s                 1.494          2.55          0.77         170.8         1.398         2.307
+round 29/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.1     1.1466        0.0s  active         1.324         2.938          0.74         167.5         1.407          2.29
+  TOTAL     150     12.1     1.1466        0.0s                 1.324         2.938          0.74         167.5         1.407          2.29
+round 30/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     1.1074        0.0s  active          2.04         2.737          0.82         155.9         1.415         2.198
+  TOTAL     150     11.5     1.1074        0.0s                  2.04         2.737          0.82         155.9         1.415         2.198
+round 31/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     10.6     1.0997        0.0s  active         1.669         2.256          0.77         160.2         1.424         2.216
+  TOTAL     150     10.6     1.0997        0.0s                 1.669         2.256          0.77         160.2         1.424         2.216
+round 32/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.1     1.1211        0.0s  active         1.694         2.426          0.76         158.1         1.439         2.259
+  TOTAL     150     11.1     1.1211        0.0s                 1.694         2.426          0.76         158.1         1.439         2.259
+round 33/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.5     1.1319        0.0s  active         2.839         3.217          0.89         138.1         1.448         2.267
+  TOTAL     150     11.5     1.1319        0.0s                 2.839         3.217          0.89         138.1         1.448         2.267
+round 34/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150      9.6     1.1006        0.0s  active         2.781         3.103          0.88         138.2          1.43         2.211
+  TOTAL     150      9.6     1.1006        0.0s                 2.781         3.103          0.88         138.2          1.43         2.211
+round 35/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     10.7     1.1070        0.0s  active         2.885         3.175          0.88         134.4         1.422         2.211
+  TOTAL     150     10.7     1.1070        0.0s                 2.885         3.175          0.88         134.4         1.422         2.211
+round 36/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     10.5     1.0760        0.0s  active         2.423         3.076          0.84         144.7         1.424         2.139
+  TOTAL     150     10.5     1.0760        0.0s                 2.423         3.076          0.84         144.7         1.424         2.139
+round 37/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.3     1.0684        0.0s  active         1.652         3.422          0.77         159.5          1.42         2.135
+  TOTAL     150     11.3     1.0684        0.0s                 1.652         3.422          0.77         159.5          1.42         2.135
+round 38/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.2     1.1087        0.0s  active          3.07         2.448          0.89         126.4         1.419         2.211
+  TOTAL     150     11.2     1.1087        0.0s                  3.07         2.448          0.89         126.4         1.419         2.211
+round 39/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.1     1.1184        0.0s  active         3.077         3.274          0.87         122.8         1.418         2.243
+  TOTAL     150     12.1     1.1184        0.0s                 3.077         3.274          0.87         122.8         1.418         2.243
+round 40/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.2     1.1017        0.0s  active         2.766         3.672          0.88         139.9         1.423         2.202
+  TOTAL     150     12.2     1.1017        0.0s                 2.766         3.672          0.88         139.9         1.423         2.202
+round 41/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     1.1119        0.0s  active         3.358         3.601          0.92         120.7         1.414         2.225
+  TOTAL     150     12.0     1.1119        0.0s                 3.358         3.601          0.92         120.7         1.414         2.225
+round 42/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     1.1060        0.0s  active         3.264         3.347          0.91         124.3         1.399         2.213
+  TOTAL     150     11.7     1.1060        0.0s                 3.264         3.347          0.91         124.3         1.399         2.213
+round 43/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.9     1.0581        0.0s  active         2.918         3.287           0.9         139.3         1.375         2.122
+  TOTAL     150     11.9     1.0581        0.0s                 2.918         3.287           0.9         139.3         1.375         2.122
+round 44/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.1     1.0749        0.0s  active         2.903         3.564          0.91         141.2         1.366         2.161
+  TOTAL     150     12.1     1.0749        0.0s                 2.903         3.564          0.91         141.2         1.366         2.161
+round 45/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     11.7     1.0626        0.0s  active         2.693         3.609          0.86           134         1.363         2.124
+  TOTAL     150     11.7     1.0626        0.0s                 2.693         3.609          0.86           134         1.363         2.124
+round 46/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     1.1103        0.0s  active         2.734         3.325          0.87         138.8         1.364         2.218
+  TOTAL     150     12.0     1.1103        0.0s                 2.734         3.325          0.87         138.8         1.364         2.218
+round 47/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.0     1.1216        0.0s  active         3.313         4.044          0.92         126.2         1.366         2.243
+  TOTAL     150     12.0     1.1216        0.0s                 3.313         4.044          0.92         126.2         1.366         2.243
+round 48/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.1     1.1058        0.0s  active         2.318         3.475          0.81         140.2         1.385         2.214
+  TOTAL     150     12.1     1.1058        0.0s                 2.318         3.475          0.81         140.2         1.385         2.214
+round 49/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.3     1.0982        0.0s  active         3.086         4.165          0.89         124.1         1.385         2.205
+  TOTAL     150     12.3     1.0982        0.0s                 3.086         4.165          0.89         124.1         1.385         2.205
+round 50/50
+  node    steps  steps/s       loss  sync/round  state  sample/return_mean  pool/sample/return_mean  sample/success_rate  sample/length_mean       entropy    value_loss
+  local     150     12.1     1.0591        0.0s  active         2.428         4.149          0.82         136.7         1.383         2.117
+  TOTAL     150     12.1     1.0591        0.0s                 2.428         4.149          0.82         136.7         1.383         2.117

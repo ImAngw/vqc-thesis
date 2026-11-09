@@ -1,0 +1,72 @@
+=== distance 25
+A3.1 K=25: TV distance between action distributions (mean [min, max] over pairs)
+  within_J         0.537 [0.333, 0.684]  (45 pairs)
+  within_F         0.674 [0.546, 0.842]  (45 pairs)
+  cross_same_pool  0.600 [0.507, 0.731]  (10 pairs)
+  cross_diff_pool  0.613 [0.442, 0.817]  (90 pairs)
+  head effect = cross (different pool) - seed spread = +0.007 (seed spread 0.606)
+  KL(J||F) 2.212, KL(F||J) 1.553 (same pool)
+saved quantum_heads/analysis/runs/a3/distance_k25.json
+=== distance 200
+A3.1 K=200: TV distance between action distributions (mean [min, max] over pairs)
+  within_J         0.486 [0.290, 0.631]  (45 pairs)
+  within_F         0.553 [0.345, 0.722]  (45 pairs)
+  cross_same_pool  0.468 [0.382, 0.652]  (10 pairs)
+  cross_diff_pool  0.528 [0.354, 0.674]  (90 pairs)
+  head effect = cross (different pool) - seed spread = +0.008 (seed spread 0.520)
+  KL(J||F) 1.142, KL(F||J) 0.946 (same pool)
+saved quantum_heads/analysis/runs/a3/distance_k200.json
+=== periods 25
+A3.2 K=25 nav-id: seeds with >= 1 angle sweeping >= half a period: 10/10
+  s0: rho max 0.66 median 0.14, periodic angles 3/36, turning points per sweep 0.47
+  s1: rho max 0.93 median 0.22, periodic angles 6/36, turning points per sweep 0.79
+  s2: rho max 0.79 median 0.15, periodic angles 2/36, turning points per sweep 0.55
+  s3: rho max 0.85 median 0.19, periodic angles 3/36, turning points per sweep 0.58
+  s4: rho max 1.10 median 0.23, periodic angles 8/36, turning points per sweep 0.83
+  s5: rho max 0.71 median 0.22, periodic angles 7/36, turning points per sweep 0.72
+  s6: rho max 0.59 median 0.14, periodic angles 2/36, turning points per sweep 0.56
+  s7: rho max 0.98 median 0.20, periodic angles 4/36, turning points per sweep 0.62
+  s8: rho max 0.68 median 0.16, periodic angles 2/36, turning points per sweep 0.55
+  s9: rho max 0.72 median 0.24, periodic angles 4/36, turning points per sweep 0.83
+A3.2 K=25 four: seeds with >= 1 angle sweeping >= half a period: 10/10
+  s0: rho max 0.92 median 0.82, periodic angles 4/4, turning points per sweep 0.33
+  s1: rho max 1.01 median 0.78, periodic angles 4/4, turning points per sweep 0.32
+  s2: rho max 1.25 median 0.73, periodic angles 4/4, turning points per sweep 0.42
+  s3: rho max 1.26 median 0.71, periodic angles 4/4, turning points per sweep 0.38
+  s4: rho max 0.99 median 0.82, periodic angles 4/4, turning points per sweep 0.37
+  s5: rho max 1.06 median 0.86, periodic angles 4/4, turning points per sweep 0.42
+  s6: rho max 1.13 median 0.82, periodic angles 4/4, turning points per sweep 0.45
+  s7: rho max 0.70 median 0.66, periodic angles 4/4, turning points per sweep 0.33
+  s8: rho max 1.13 median 0.84, periodic angles 4/4, turning points per sweep 0.37
+  s9: rho max 0.87 median 0.74, periodic angles 4/4, turning points per sweep 0.46
+saved quantum_heads/analysis/runs/a3/periods_k25.json
+=== periods 200
+A3.2 K=200 nav-id: seeds with >= 1 angle sweeping >= half a period: 10/10
+  s0: rho max 0.60 median 0.13, periodic angles 2/36, turning points per sweep 0.53
+  s1: rho max 0.57 median 0.15, periodic angles 2/36, turning points per sweep 0.48
+  s2: rho max 0.56 median 0.21, periodic angles 4/36, turning points per sweep 0.71
+  s3: rho max 0.88 median 0.23, periodic angles 7/36, turning points per sweep 0.76
+  s4: rho max 0.85 median 0.09, periodic angles 5/36, turning points per sweep 0.82
+  s5: rho max 0.87 median 0.18, periodic angles 5/36, turning points per sweep 0.72
+  s6: rho max 0.86 median 0.18, periodic angles 5/36, turning points per sweep 0.56
+  s7: rho max 0.99 median 0.13, periodic angles 2/36, turning points per sweep 0.48
+  s8: rho max 0.59 median 0.11, periodic angles 2/36, turning points per sweep 0.47
+  s9: rho max 0.69 median 0.22, periodic angles 3/36, turning points per sweep 0.71
+A3.2 K=200 four: seeds with >= 1 angle sweeping >= half a period: 10/10
+  s0: rho max 0.73 median 0.53, periodic angles 4/4, turning points per sweep 0.34
+  s1: rho max 0.92 median 0.67, periodic angles 4/4, turning points per sweep 0.32
+  s2: rho max 1.04 median 0.74, periodic angles 4/4, turning points per sweep 0.39
+  s3: rho max 0.89 median 0.71, periodic angles 4/4, turning points per sweep 0.34
+  s4: rho max 0.88 median 0.69, periodic angles 4/4, turning points per sweep 0.34
+  s5: rho max 0.84 median 0.72, periodic angles 4/4, turning points per sweep 0.32
+  s6: rho max 1.31 median 0.76, periodic angles 4/4, turning points per sweep 0.43
+  s7: rho max 0.81 median 0.66, periodic angles 4/4, turning points per sweep 0.36
+  s8: rho max 0.85 median 0.75, periodic angles 4/4, turning points per sweep 0.37
+  s9: rho max 1.99 median 0.59, periodic angles 4/4, turning points per sweep 0.46
+saved quantum_heads/analysis/runs/a3/periods_k200.json
+=== temperature 5
+K=5: J entropy on its visited test states (T=1): mean 1.122 (per seed 1.45, 1.13, 1.00, 1.42, 1.25, 1.07, 1.02, 1.16, 0.37, 1.35); J test return -1.27
+  four: T 3.58 (per seed 3.08, 3.93, 3.30, 2.67, 3.71, 3.71, 3.08, 3.71, 3.80, 4.80), entropy 1.121, test -2.34 (T=1: -5.24); J - four(T) = +1.07 +- 0.51, CI95 [-0.09, +2.23]
+  h5: T 4.19 (per seed 1.60, 5.15, 5.79, 1.71, 5.92, 5.52, 3.08, 3.71, 7.84, 1.60), entropy 1.116, test -1.87 (T=1: -3.91); J - h5(T) = +0.60 +- 0.47, CI95 [-0.47, +1.67]
+  h128: T 15.48 (per seed 7.48, 19.09, 17.38, 14.41, 15.83, 17.38, 11.40, 17.38, 14.41, 20.00), entropy 1.111, test -2.16 (T=1: -5.51); J - h128(T) = +0.89 +- 0.45, CI95 [-0.13, +1.91]
+saved quantum_heads/analysis/runs/a3/temperature_k5.json

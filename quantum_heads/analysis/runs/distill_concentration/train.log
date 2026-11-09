@@ -1,0 +1,69 @@
+frozen   mlp128   seed 0 lr 0.003: val frac 0.999 val KL 0.0012 entropy 1.150 (2s)
+frozen   mlp128   seed 0 lr 0.01: val frac 0.998 val KL 0.0014 entropy 1.149 (2s)
+frozen   mlp128   seed 1 lr 0.003: val frac 0.999 val KL 0.0011 entropy 1.151 (2s)
+frozen   mlp128   seed 1 lr 0.01: val frac 0.999 val KL 0.0010 entropy 1.152 (2s)
+frozen   mlp128   seed 2 lr 0.003: val frac 0.999 val KL 0.0011 entropy 1.151 (2s)
+frozen   mlp128   seed 2 lr 0.01: val frac 0.999 val KL 0.0009 entropy 1.155 (2s)
+frozen   vqc-optim-id seed 0 lr 0.003: val frac 0.594 val KL 0.3561 entropy 1.669 (44s)
+frozen   vqc-optim-id seed 0 lr 0.01: val frac 0.648 val KL 0.3083 entropy 1.615 (44s)
+frozen   vqc-optim-id seed 1 lr 0.003: val frac 0.609 val KL 0.3427 entropy 1.655 (45s)
+frozen   vqc-optim-id seed 1 lr 0.01: val frac 0.629 val KL 0.3257 entropy 1.619 (46s)
+frozen   vqc-optim-id seed 2 lr 0.003: val frac 0.614 val KL 0.3384 entropy 1.674 (45s)
+frozen   vqc-optim-id seed 2 lr 0.01: val frac 0.665 val KL 0.2940 entropy 1.606 (44s)
+frozen   vqc-optim-id-gray seed 0 lr 0.003: val frac 0.610 val KL 0.3421 entropy 1.664 (45s)
+frozen   vqc-optim-id-gray seed 0 lr 0.01: val frac 0.672 val KL 0.2876 entropy 1.609 (46s)
+frozen   vqc-optim-id-gray seed 1 lr 0.003: val frac 0.595 val KL 0.3555 entropy 1.650 (46s)
+frozen   vqc-optim-id-gray seed 1 lr 0.01: val frac 0.657 val KL 0.3009 entropy 1.634 (47s)
+frozen   vqc-optim-id-gray seed 2 lr 0.003: val frac 0.595 val KL 0.3549 entropy 1.657 (47s)
+frozen   vqc-optim-id-gray seed 2 lr 0.01: val frac 0.652 val KL 0.3048 entropy 1.651 (48s)
+frozen   vqc-nav-id seed 0 lr 0.003: val frac 0.689 val KL 0.2724 entropy 1.597 (49s)
+frozen   vqc-nav-id seed 0 lr 0.01: val frac 0.742 val KL 0.2259 entropy 1.567 (49s)
+frozen   vqc-nav-id seed 1 lr 0.003: val frac 0.692 val KL 0.2700 entropy 1.601 (50s)
+frozen   vqc-nav-id seed 1 lr 0.01: val frac 0.742 val KL 0.2265 entropy 1.560 (50s)
+frozen   vqc-nav-id seed 2 lr 0.003: val frac 0.704 val KL 0.2596 entropy 1.608 (50s)
+frozen   vqc-nav-id seed 2 lr 0.01: val frac 0.773 val KL 0.1992 entropy 1.531 (51s)
+finetune mlp128   seed 0 lr 0.003: val frac 0.998 val KL 0.0015 entropy 1.148 (28s)
+finetune mlp128   seed 0 lr 0.01: val frac 0.998 val KL 0.0014 entropy 1.147 (28s)
+finetune mlp128   seed 1 lr 0.003: val frac 0.999 val KL 0.0011 entropy 1.150 (28s)
+finetune mlp128   seed 1 lr 0.01: val frac 0.999 val KL 0.0007 entropy 1.153 (28s)
+finetune mlp128   seed 2 lr 0.003: val frac 0.998 val KL 0.0013 entropy 1.152 (28s)
+finetune mlp128   seed 2 lr 0.01: val frac 0.999 val KL 0.0011 entropy 1.155 (28s)
+finetune vqc-optim-id seed 0 lr 0.003: val frac 0.793 val KL 0.1812 entropy 1.459 (75s)
+finetune vqc-optim-id seed 0 lr 0.01: val frac 0.789 val KL 0.1854 entropy 1.486 (75s)
+finetune vqc-optim-id seed 1 lr 0.003: val frac 0.795 val KL 0.1796 entropy 1.473 (76s)
+finetune vqc-optim-id seed 1 lr 0.01: val frac 0.792 val KL 0.1823 entropy 1.479 (76s)
+finetune vqc-optim-id seed 2 lr 0.003: val frac 0.784 val KL 0.1892 entropy 1.470 (77s)
+finetune vqc-optim-id seed 2 lr 0.01: val frac 0.804 val KL 0.1716 entropy 1.456 (77s)
+finetune vqc-optim-id-gray seed 0 lr 0.003: val frac 0.797 val KL 0.1782 entropy 1.448 (86s)
+finetune vqc-optim-id-gray seed 0 lr 0.01: val frac 0.802 val KL 0.1736 entropy 1.465 (87s)
+finetune vqc-optim-id-gray seed 1 lr 0.003: val frac 0.730 val KL 0.2367 entropy 1.508 (89s)
+finetune vqc-optim-id-gray seed 1 lr 0.01: val frac 0.734 val KL 0.2334 entropy 1.499 (89s)
+finetune vqc-optim-id-gray seed 2 lr 0.003: val frac 0.781 val KL 0.1924 entropy 1.458 (90s)
+finetune vqc-optim-id-gray seed 2 lr 0.01: val frac 0.811 val KL 0.1660 entropy 1.449 (90s)
+finetune vqc-nav-id seed 0 lr 0.003: val frac 0.837 val KL 0.1432 entropy 1.420 (95s)
+finetune vqc-nav-id seed 0 lr 0.01: val frac 0.865 val KL 0.1184 entropy 1.412 (95s)
+finetune vqc-nav-id seed 1 lr 0.003: val frac 0.836 val KL 0.1434 entropy 1.413 (95s)
+finetune vqc-nav-id seed 1 lr 0.01: val frac 0.853 val KL 0.1290 entropy 1.403 (95s)
+finetune vqc-nav-id seed 2 lr 0.003: val frac 0.839 val KL 0.1416 entropy 1.413 (94s)
+finetune vqc-nav-id seed 2 lr 0.01: val frac 0.846 val KL 0.1355 entropy 1.406 (94s)
+
+teacher: val entropy 1.151 nats (max 2.079), KL(teacher || marginal) 0.877, collect return 5.23, max-prob median 0.516, states with max-prob > 0.5 0.541
+
+| variant | head | params | best lr | val frac | val KL | train KL | student entropy | max-prob median | max-prob > 0.5 |
+|---|---|---|---|---|---|---|---|---|---|
+| finetune | mlp128 | 2696 | 0.01 | 0.999±0.000 | 0.001±0.000 | 0.001±0.000 | 1.151±0.004 | 0.517±0.001 | 0.546±0.005 |
+| finetune | vqc-nav-id | 117 | 0.01 | 0.854±0.008 | 0.128±0.007 | 0.122±0.005 | 1.407±0.004 | 0.438±0.003 | 0.320±0.011 |
+| finetune | vqc-optim-id | 93 | 0.01 | 0.795±0.007 | 0.180±0.006 | 0.167±0.006 | 1.474±0.013 | 0.410±0.005 | 0.245±0.019 |
+| finetune | vqc-optim-id-gray | 93 | 0.01 | 0.782±0.034 | 0.191±0.030 | 0.172±0.025 | 1.471±0.021 | 0.411±0.009 | 0.244±0.035 |
+| frozen | mlp128 | 2696 | 0.01 | 0.999±0.000 | 0.001±0.000 | 0.001±0.000 | 1.152±0.002 | 0.516±0.001 | 0.544±0.005 |
+| frozen | vqc-nav-id | 117 | 0.01 | 0.752±0.015 | 0.217±0.013 | 0.212±0.008 | 1.553±0.015 | 0.374±0.006 | 0.152±0.029 |
+| frozen | vqc-optim-id | 93 | 0.01 | 0.647±0.015 | 0.309±0.013 | 0.297±0.006 | 1.613±0.005 | 0.348±0.006 | 0.108±0.007 |
+| frozen | vqc-optim-id-gray | 93 | 0.01 | 0.660±0.008 | 0.298±0.007 | 0.294±0.007 | 1.631±0.017 | 0.348±0.008 | 0.081±0.018 |
+
+Verdict (capacity limit if mean+std of the head < 0.5 * (mean-std) of mlp128, same variant):
+- finetune vqc-nav-id: head/mlp128 = 0.86 -> no capacity limit
+- finetune vqc-optim-id: head/mlp128 = 0.80 -> no capacity limit
+- finetune vqc-optim-id-gray: head/mlp128 = 0.78 -> no capacity limit
+- frozen vqc-nav-id: head/mlp128 = 0.75 -> no capacity limit
+- frozen vqc-optim-id: head/mlp128 = 0.65 -> no capacity limit
+- frozen vqc-optim-id-gray: head/mlp128 = 0.66 -> no capacity limit

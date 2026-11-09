@@ -1,0 +1,4 @@
+gen-nav-id-k25-s4-7.5k-cpu-outer fake_torino    return   4.92 success 0.99 (5806 circuits, 400s)
+gen-nav-id-k25-s4-7.5k-cpu-outer fake_brisbane  return   4.34 success 0.95 (7510 circuits, 302s)
+gen-nav-id-k25-s5-7.5k-cpu-outer fake_torino    return   5.30 success 1.00 (4160 circuits, 281s)
+gen-nav-id-k25-s5-7.5k-cpu-outer fake_brisbane  return   5.04 success 1.00 (5656 circuits, 180s)

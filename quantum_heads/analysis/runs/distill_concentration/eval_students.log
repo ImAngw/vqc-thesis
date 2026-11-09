@@ -1,0 +1,35 @@
+finetune_mlp128_s0_lr0.01: sample return 5.197 success 0.99 | greedy return -1.205
+finetune_mlp128_s1_lr0.01: sample return 5.176 success 1.00 | greedy return -1.271
+finetune_mlp128_s2_lr0.01: sample return 5.179 success 1.00 | greedy return -1.181
+finetune_vqc-nav-id_s0_lr0.01: sample return 5.018 success 1.00 | greedy return -4.833
+finetune_vqc-nav-id_s1_lr0.01: sample return 4.936 success 1.00 | greedy return -4.525
+finetune_vqc-nav-id_s2_lr0.01: sample return 4.949 success 0.99 | greedy return -4.722
+finetune_vqc-optim-id-gray_s0_lr0.01: sample return 4.614 success 0.97 | greedy return -5.047
+finetune_vqc-optim-id-gray_s1_lr0.01: sample return 2.511 success 0.82 | greedy return -6.091
+finetune_vqc-optim-id-gray_s2_lr0.01: sample return 4.416 success 0.96 | greedy return -4.975
+finetune_vqc-optim-id_s0_lr0.01: sample return 4.471 success 0.97 | greedy return -4.757
+finetune_vqc-optim-id_s1_lr0.01: sample return 4.920 success 0.99 | greedy return -4.640
+finetune_vqc-optim-id_s2_lr0.01: sample return 4.876 success 0.99 | greedy return -3.905
+frozen_mlp128_s0_lr0.01: sample return 5.157 success 0.99 | greedy return -1.184
+frozen_mlp128_s1_lr0.01: sample return 5.124 success 0.99 | greedy return -0.900
+frozen_mlp128_s2_lr0.01: sample return 5.212 success 1.00 | greedy return -1.014
+frozen_vqc-nav-id_s0_lr0.01: sample return 4.242 success 0.94 | greedy return -2.910
+frozen_vqc-nav-id_s1_lr0.01: sample return 4.580 success 0.97 | greedy return -2.722
+frozen_vqc-nav-id_s2_lr0.01: sample return 4.759 success 0.98 | greedy return -2.103
+frozen_vqc-optim-id-gray_s0_lr0.01: sample return 3.354 success 0.87 | greedy return -3.552
+frozen_vqc-optim-id-gray_s1_lr0.01: sample return 3.315 success 0.86 | greedy return -2.254
+frozen_vqc-optim-id-gray_s2_lr0.01: sample return 3.985 success 0.95 | greedy return -2.791
+frozen_vqc-optim-id_s0_lr0.01: sample return 2.627 success 0.82 | greedy return -4.232
+frozen_vqc-optim-id_s1_lr0.01: sample return 3.258 success 0.85 | greedy return -2.065
+frozen_vqc-optim-id_s2_lr0.01: sample return 3.135 success 0.85 | greedy return -2.433
+
+| variant | head | lr | sample return | sample success | greedy return |  (500 test episodes, mean±std over seeds)
+|---|---|---|---|---|---|
+| finetune | mlp128 | 0.01 | 5.184±0.009 | 0.995±0.001 | -1.219±0.038 |
+| finetune | vqc-nav-id | 0.01 | 4.968±0.036 | 0.994±0.003 | -4.693±0.127 |
+| finetune | vqc-optim-id | 0.01 | 4.756±0.202 | 0.984±0.010 | -4.434±0.377 |
+| finetune | vqc-optim-id-gray | 0.01 | 3.847±0.948 | 0.917±0.069 | -5.371±0.510 |
+| frozen | mlp128 | 0.01 | 5.164±0.036 | 0.993±0.002 | -1.033±0.117 |
+| frozen | vqc-nav-id | 0.01 | 4.527±0.214 | 0.962±0.015 | -2.578±0.345 |
+| frozen | vqc-optim-id | 0.01 | 3.007±0.273 | 0.841±0.014 | -2.910±0.947 |
+| frozen | vqc-optim-id-gray | 0.01 | 3.552±0.307 | 0.896±0.040 | -2.865±0.533 |

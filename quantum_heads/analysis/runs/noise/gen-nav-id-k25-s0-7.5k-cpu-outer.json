@@ -1,0 +1,128 @@
+{
+ "run": "gen-nav-id-k25-s0-7.5k-cpu-outer",
+ "episodes": 100,
+ "eval_seed": 10000,
+ "results": {
+  "clean": {
+   "return_mean": 4.6155,
+   "return_std": 1.694362073589868,
+   "length_mean": 71.02,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.6899555555555555
+  },
+  "p2=0": {
+   "return_mean": 4.6155,
+   "return_std": 1.694362073589868,
+   "length_mean": 71.02,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.6899555555555555
+  },
+  "p2=0.001": {
+   "return_mean": 4.498666666666667,
+   "return_std": 1.7781145722643321,
+   "length_mean": 76.08,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.693822222222222
+  },
+  "p2=0.003": {
+   "return_mean": 4.459361111111111,
+   "return_std": 2.1911065914070496,
+   "length_mean": 72.11,
+   "success_rate": 0.96,
+   "explored_fraction_mean": 0.6784000000000002
+  },
+  "p2=0.01": {
+   "return_mean": 4.5033055555555555,
+   "return_std": 1.688461691905051,
+   "length_mean": 76.49,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.6997777777777778
+  },
+  "p2=0.03": {
+   "return_mean": 3.7146944444444445,
+   "return_std": 2.3656336521931913,
+   "length_mean": 104.39,
+   "success_rate": 0.95,
+   "explored_fraction_mean": 0.7233333333333333
+  },
+  "readout=0.02": {
+   "return_mean": 4.556527777777777,
+   "return_std": 1.7390820524146837,
+   "length_mean": 71.89,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.6750666666666669
+  },
+  "fake_torino": {
+   "return_mean": 4.65575,
+   "return_std": 0.9611769610550188,
+   "length_mean": 73.45,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.6903555555555556
+  },
+  "fake_brisbane": {
+   "return_mean": 4.351638888888889,
+   "return_std": 1.8040756368704138,
+   "length_mean": 82.97,
+   "success_rate": 0.98,
+   "explored_fraction_mean": 0.703911111111111
+  }
+ },
+ "calibration": {
+  "fake_torino": {
+   "backend": "fake_torino",
+   "physical_qubits": [
+    99,
+    98,
+    92
+   ],
+   "two_qubit_gate": "cz",
+   "n_2q": 42,
+   "n_sx": 96,
+   "depth": 129,
+   "e_2q": 0.0028579246810810366,
+   "e_sx": 0.00024398280183677776,
+   "e_meas": [
+    0.009521484375,
+    0.01904296875,
+    0.009033203125
+   ],
+   "p1": 0.0005037064295985089,
+   "p2": 0.008891321230029892,
+   "validation": {
+    "states": 200,
+    "shots": 20000,
+    "tvd_aer_vs_effective": 0.010486941953212026,
+    "tvd_aer_vs_clean": 0.08353497264472098,
+    "tvd_shot_floor": 0.006561873312853277
+   }
+  },
+  "fake_brisbane": {
+   "backend": "fake_brisbane",
+   "physical_qubits": [
+    39,
+    33,
+    40
+   ],
+   "two_qubit_gate": "ecr",
+   "n_2q": 42,
+   "n_sx": 112,
+   "depth": 204,
+   "e_2q": 0.00569440205076624,
+   "e_sx": 0.0002008175073506602,
+   "e_meas": [
+    0.015625,
+    0.015380859375,
+    0.014404296875
+   ],
+   "p1": 0.0004836894800704074,
+   "p2": 0.017715917491272746,
+   "validation": {
+    "states": 200,
+    "shots": 20000,
+    "tvd_aer_vs_effective": 0.027553759271845224,
+    "tvd_aer_vs_clean": 0.15439781888786405,
+    "tvd_shot_floor": 0.006889998102024198
+   }
+  }
+ }
+}

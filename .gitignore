@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+# produced by train.py and make targets
+/logs/
+/results/
+# downloaded by `make fetch`
+/checkpoints/
+artifacts/*.tar.gz
+/thesis/build/

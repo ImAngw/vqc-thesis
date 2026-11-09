@@ -1,0 +1,142 @@
+{
+ "gen-four-k25-s0-7.5k-cpu-outer": {
+  "return_mean": 4.651694444444443,
+  "return_std": 2.4084178152233475,
+  "length_mean": 66.59,
+  "success_rate": 0.96,
+  "explored_fraction_mean": 0.7001333333333335
+ },
+ "gen-four-k25-s1-7.5k-cpu-outer": {
+  "return_mean": 4.5221111111111085,
+  "return_std": 3.1098044607258903,
+  "length_mean": 62.28,
+  "success_rate": 0.92,
+  "explored_fraction_mean": 0.6852000000000003
+ },
+ "gen-four-k25-s2-7.5k-cpu-outer": {
+  "return_mean": 2.195083333333331,
+  "return_std": 4.330538679587249,
+  "length_mean": 132.41,
+  "success_rate": 0.78,
+  "explored_fraction_mean": 0.735688888888889
+ },
+ "gen-four-k25-s3-7.5k-cpu-outer": {
+  "return_mean": 2.753555555555552,
+  "return_std": 4.295543665558076,
+  "length_mean": 112.04,
+  "success_rate": 0.81,
+  "explored_fraction_mean": 0.6953777777777779
+ },
+ "gen-four-k25-s4-7.5k-cpu-outer": {
+  "return_mean": 3.4986666666666664,
+  "return_std": 3.1969214666922228,
+  "length_mean": 104.6,
+  "success_rate": 0.91,
+  "explored_fraction_mean": 0.7190222222222223
+ },
+ "gen-four-k25-s5-7.5k-cpu-outer": {
+  "return_mean": 4.825472222222221,
+  "return_std": 1.7207355166800624,
+  "length_mean": 58.95,
+  "success_rate": 0.98,
+  "explored_fraction_mean": 0.6532444444444445
+ },
+ "gen-four-k25-s6-7.5k-cpu-outer": {
+  "return_mean": 4.516305555555556,
+  "return_std": 2.1180160708523665,
+  "length_mean": 71.29,
+  "success_rate": 0.97,
+  "explored_fraction_mean": 0.6729777777777778
+ },
+ "gen-four-k25-s7-7.5k-cpu-outer": {
+  "return_mean": 4.395249999999998,
+  "return_std": 2.9599818123554975,
+  "length_mean": 65.51,
+  "success_rate": 0.93,
+  "explored_fraction_mean": 0.6467555555555556
+ },
+ "gen-four-k25-s8-7.5k-cpu-outer": {
+  "return_mean": 2.9678888888888872,
+  "return_std": 4.001674289254935,
+  "length_mean": 108.08,
+  "success_rate": 0.83,
+  "explored_fraction_mean": 0.7015111111111111
+ },
+ "gen-four-k25-s9-7.5k-cpu-outer": {
+  "return_mean": 3.965166666666665,
+  "return_std": 3.231000194393814,
+  "length_mean": 80.82,
+  "success_rate": 0.91,
+  "explored_fraction_mean": 0.6678222222222222
+ },
+ "ent-h5-k25-s0-7.5k-cpu-outer": {
+  "return_mean": 2.318138888888888,
+  "return_std": 3.7570109452935556,
+  "length_mean": 146.67,
+  "success_rate": 0.83,
+  "explored_fraction_mean": 0.8275111111111112
+ },
+ "ent-h5-k25-s1-7.5k-cpu-outer": {
+  "return_mean": 1.8168611111111104,
+  "return_std": 4.07125438049625,
+  "length_mean": 155.53,
+  "success_rate": 0.78,
+  "explored_fraction_mean": 0.8156
+ },
+ "ent-h5-k25-s2-7.5k-cpu-outer": {
+  "return_mean": 1.5808333333333306,
+  "return_std": 4.529918793388177,
+  "length_mean": 149.46,
+  "success_rate": 0.72,
+  "explored_fraction_mean": 0.7804888888888888
+ },
+ "ent-h5-k25-s3-7.5k-cpu-outer": {
+  "return_mean": 5.102722222222222,
+  "return_std": 0.9004111697948649,
+  "length_mean": 52.98,
+  "success_rate": 1.0,
+  "explored_fraction_mean": 0.6644444444444444
+ },
+ "ent-h5-k25-s4-7.5k-cpu-outer": {
+  "return_mean": 1.5703333333333314,
+  "return_std": 4.3729465530184095,
+  "length_mean": 151.44,
+  "success_rate": 0.73,
+  "explored_fraction_mean": 0.7760888888888892
+ },
+ "ent-h5-k25-s5-7.5k-cpu-outer": {
+  "return_mean": 2.437249999999998,
+  "return_std": 4.149899059738508,
+  "length_mean": 127.27,
+  "success_rate": 0.79,
+  "explored_fraction_mean": 0.7611555555555556
+ },
+ "ent-h5-k25-s6-7.5k-cpu-outer": {
+  "return_mean": 0.022277777777775162,
+  "return_std": 4.383378291207274,
+  "length_mean": 207.42,
+  "success_rate": 0.63,
+  "explored_fraction_mean": 0.9166666666666667
+ },
+ "ent-h5-k25-s7-7.5k-cpu-outer": {
+  "return_mean": 2.7654999999999994,
+  "return_std": 3.309364709557442,
+  "length_mean": 140.86,
+  "success_rate": 0.88,
+  "explored_fraction_mean": 0.8483555555555558
+ },
+ "ent-h5-k25-s8-7.5k-cpu-outer": {
+  "return_mean": 2.5216388888888868,
+  "return_std": 3.9771798180097404,
+  "length_mean": 128.61,
+  "success_rate": 0.83,
+  "explored_fraction_mean": 0.7283111111111111
+ },
+ "ent-h5-k25-s9-7.5k-cpu-outer": {
+  "return_mean": 0.43955555555555237,
+  "return_std": 4.694081726947168,
+  "length_mean": 182.16,
+  "success_rate": 0.62,
+  "explored_fraction_mean": 0.8509777777777778
+ }
+}

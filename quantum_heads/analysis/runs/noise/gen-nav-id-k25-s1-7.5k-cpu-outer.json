@@ -1,0 +1,114 @@
+{
+ "run": "gen-nav-id-k25-s1-7.5k-cpu-outer",
+ "episodes": 100,
+ "eval_seed": 10000,
+ "results": {
+  "clean": {
+   "return_mean": 5.215222222222223,
+   "return_std": 0.9148372721789928,
+   "length_mean": 46.84,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.6480444444444444
+  },
+  "p2=0": {
+   "return_mean": 5.215222222222223,
+   "return_std": 0.9148372721789928,
+   "length_mean": 46.84,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.6480444444444444
+  },
+  "p2=0.001": {
+   "return_mean": 5.2275,
+   "return_std": 1.1877073243318854,
+   "length_mean": 45.74,
+   "success_rate": 0.99,
+   "explored_fraction_mean": 0.6619555555555556
+  },
+  "p2=0.003": {
+   "return_mean": 5.087305555555555,
+   "return_std": 1.2954674816999368,
+   "length_mean": 49.57,
+   "success_rate": 0.99,
+   "explored_fraction_mean": 0.6441777777777778
+  },
+  "p2=0.01": {
+   "return_mean": 5.082,
+   "return_std": 0.8235698865455742,
+   "length_mean": 54.0,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.6663555555555556
+  },
+  "p2=0.03": {
+   "return_mean": 4.366027777777779,
+   "return_std": 1.1109035816608521,
+   "length_mean": 87.75,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.7174666666666668
+  },
+  "readout=0.02": {
+   "return_mean": 5.299083333333333,
+   "return_std": 0.644009198687275,
+   "length_mean": 43.25,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.645688888888889
+  },
+  "fake_torino": {
+   "return_mean": 5.163138888888889,
+   "return_std": 0.6047983103001983,
+   "length_mean": 49.55,
+   "success_rate": 1.0,
+   "explored_fraction_mean": 0.6543111111111112
+  },
+  "fake_brisbane": {
+   "return_mean": 4.8311111111111105,
+   "return_std": 1.3820156039747271,
+   "length_mean": 62.0,
+   "success_rate": 0.99,
+   "explored_fraction_mean": 0.6659999999999999
+  }
+ },
+ "calibration": {
+  "fake_torino": {
+   "backend": "fake_torino",
+   "physical_qubits": [
+    99,
+    98,
+    92
+   ],
+   "two_qubit_gate": "cz",
+   "n_2q": 42,
+   "n_sx": 90,
+   "depth": 126,
+   "e_2q": 0.0028579246810810366,
+   "e_sx": 0.00024398280183677776,
+   "e_meas": [
+    0.009521484375,
+    0.01904296875,
+    0.009033203125
+   ],
+   "p1": 0.0004722247777486021,
+   "p2": 0.008891321230029892
+  },
+  "fake_brisbane": {
+   "backend": "fake_brisbane",
+   "physical_qubits": [
+    39,
+    33,
+    40
+   ],
+   "two_qubit_gate": "ecr",
+   "n_2q": 42,
+   "n_sx": 114,
+   "depth": 203,
+   "e_2q": 0.00569440205076624,
+   "e_sx": 0.0002008175073506602,
+   "e_meas": [
+    0.015625,
+    0.015380859375,
+    0.014404296875
+   ],
+   "p1": 0.0004923267922145218,
+   "p2": 0.017715917491272746
+  }
+ }
+}

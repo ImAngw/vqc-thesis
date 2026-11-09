@@ -1,0 +1,10 @@
+# Versions the experiments were run and tested with (Python 3.13)
+gymnasium==1.4.0
+numpy==2.5.3
+pygame==2.6.1  # only needed for render_mode="human"
+pytest==9.1.1  # tests
+torch==2.14.1
+matplotlib==3.10.3  # figures (scripts/plot_*.py)
+qiskit==2.5.2  # VQC equivalence tests (quantum_heads/test_*.py)
+qiskit-aer==0.17.2  # noisy reference simulations in the tests and part B
+qiskit-ibm-runtime==0.50.0  # fake IBM backends (calibrated noise); no IBM account needed

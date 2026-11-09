@@ -1,0 +1,33 @@
+slot 1/2 · 4 threads
+round 1/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      1.8      1.214        0.0s  active                       -                   -                        -                    -      1.954       2.526
+  TOTAL     150      1.8      1.214       1m22s                          -3.807              -6.774                    2.336                 0.25      1.954       2.526
+round 2/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      1.9      1.193        0.0s  active                       -                   -                        -                    -      1.885       2.479
+  TOTAL     150      1.9      1.193       1m18s                          -4.015              -6.739                    2.459                 0.25      1.885       2.479
+round 3/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      1.8      1.243        0.0s  active                       -                   -                        -                    -      1.772       2.551
+  TOTAL     150      1.8      1.243       1m21s                          -1.391              -6.645                    1.578                 0.47      1.772       2.551
+round 4/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      2.1      1.267        0.0s  active                       -                   -                        -                    -      1.733       2.613
+  TOTAL     150      2.1      1.267       1m12s                          -1.541              -6.348                    2.255                 0.44      1.733       2.613
+round 5/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      2.1      1.341        0.0s  active                       -                   -                        -                    -      1.733       2.768
+  TOTAL     150      2.1      1.341       1m11s                          -2.621              -5.916                    3.075                 0.33      1.733       2.768
+round 6/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      2.1      1.392        0.0s  active                       -                   -                        -                    -      1.658        2.85
+  TOTAL     150      2.1      1.392       1m11s                          -2.712              -5.466                    3.737                 0.32      1.658        2.85
+round 7/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      2.1       1.37        0.0s  active                       -                   -                        -                    -      1.546       2.796
+  TOTAL     150      2.1       1.37       1m11s                          -2.709               -5.98                    3.969                 0.33      1.546       2.796
+round 8/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  nodo1     150      2.1      1.383        0.0s  active                       -                   -                        -                    -       1.52       2.818
+  TOTAL     150      2.1      1.383       1m12s                          -1.655              -6.613                    2.389                 0.44       1.52       2.818

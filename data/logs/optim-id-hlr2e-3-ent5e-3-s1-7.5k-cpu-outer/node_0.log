@@ -1,0 +1,202 @@
+slot 1/2 · 10 threads
+round 1/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.5149        0.0s  active                       -                    -                   -      2.016        1.05
+  TOTAL     150      7.6     0.5149       19.7s                          -2.629                 0.37               244.3      2.016        1.05
+round 2/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.6374        0.0s  active                       -                    -                   -      1.964         1.3
+  TOTAL     150      7.5     0.6374       20.1s                          -1.316                 0.49               219.2      1.964         1.3
+round 3/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.6834        0.0s  active                       -                    -                   -      1.913       1.389
+  TOTAL     150      7.5     0.6834       19.9s                          -1.876                 0.45               230.8      1.913       1.389
+round 4/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.6505        0.0s  active                       -                    -                   -       1.87       1.326
+  TOTAL     150      7.5     0.6505       20.0s                          -2.944                 0.32               248.1       1.87       1.326
+round 5/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.6293        0.0s  active                       -                    -                   -      1.798       1.277
+  TOTAL     150      7.5     0.6293       20.0s                          -1.755                 0.42               223.4      1.798       1.277
+round 6/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.7329        0.0s  active                       -                    -                   -      1.795       1.472
+  TOTAL     150      7.5     0.7329       19.9s                          -1.109                  0.5               214.2      1.795       1.472
+round 7/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.6887        0.0s  active                       -                    -                   -       1.75       1.392
+  TOTAL     150      7.5     0.6887       19.9s                          -1.791                 0.43               232.8       1.75       1.392
+round 8/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.7907        0.0s  active                       -                    -                   -      1.721       1.597
+  TOTAL     150      7.5     0.7907       19.9s                         -0.6778                 0.55               210.2      1.721       1.597
+round 9/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.8022        0.0s  active                       -                    -                   -      1.731       1.619
+  TOTAL     150      7.6     0.8022       19.8s                          -0.916                  0.5               210.9      1.731       1.619
+round 10/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.8357        0.0s  active                       -                    -                   -       1.71       1.687
+  TOTAL     150      7.6     0.8357       19.9s                          -1.459                 0.47                 229       1.71       1.687
+round 11/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.8755        0.0s  active                       -                    -                   -      1.758        1.76
+  TOTAL     150      7.6     0.8755       19.9s                         -0.5377                 0.55               206.3      1.758        1.76
+round 12/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.9002        0.0s  active                       -                    -                   -      1.746       1.812
+  TOTAL     150      7.6     0.9002       19.9s                         -0.6343                 0.53               205.7      1.746       1.812
+round 13/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      0.887        0.0s  active                       -                    -                   -      1.731       1.789
+  TOTAL     150      7.5      0.887       19.9s                         -0.4871                 0.56               205.6      1.731       1.789
+round 14/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.8401        0.0s  active                       -                    -                   -      1.718         1.7
+  TOTAL     150      7.5     0.8401       20.0s                         -0.7282                 0.52               209.6      1.718         1.7
+round 15/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9492        0.0s  active                       -                    -                   -      1.727       1.909
+  TOTAL     150      7.5     0.9492       20.1s                          -1.693                 0.44               233.8      1.727       1.909
+round 16/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9062        0.0s  active                       -                    -                   -      1.707       1.826
+  TOTAL     150      7.5     0.9062       20.0s                         -0.9671                  0.5               215.4      1.707       1.826
+round 17/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9882        0.0s  active                       -                    -                   -      1.703       1.977
+  TOTAL     150      7.5     0.9882       20.0s                         -0.7948                 0.53               214.4      1.703       1.977
+round 18/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      0.987        0.0s  active                       -                    -                   -      1.714       1.984
+  TOTAL     150      7.5      0.987       19.9s                         -0.7344                 0.53               206.3      1.714       1.984
+round 19/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9258        0.0s  active                       -                    -                   -      1.754       1.861
+  TOTAL     150      7.5     0.9258       19.9s                         -0.4876                 0.58               213.1      1.754       1.861
+round 20/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.8882        0.0s  active                       -                    -                   -       1.73       1.782
+  TOTAL     150      7.5     0.8882       19.9s                         -0.3149                 0.58               208.1       1.73       1.782
+round 21/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.029        0.0s  active                       -                    -                   -        1.7       2.069
+  TOTAL     150      7.5      1.029       19.9s                          -0.261                 0.58               203.7        1.7       2.069
+round 22/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9947        0.0s  active                       -                    -                   -      1.657        1.99
+  TOTAL     150      7.5     0.9947       20.0s                         -0.1648                 0.61               206.1      1.657        1.99
+round 23/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.9783        0.0s  active                       -                    -                   -      1.671        1.97
+  TOTAL     150      7.6     0.9783       19.8s                         -0.4754                 0.56               207.3      1.671        1.97
+round 24/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.6     0.9635        0.0s  active                       -                    -                   -      1.693       1.943
+  TOTAL     150      7.6     0.9635       19.8s                         -0.3037                  0.6               210.3      1.693       1.943
+round 25/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.8989        0.0s  active                       -                    -                   -      1.719        1.81
+  TOTAL     150      7.5     0.8989       20.0s                         -0.5618                 0.53               202.9      1.719        1.81
+round 26/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.8          1        0.0s  active                       -                    -                   -      1.733       2.013
+  TOTAL     150      7.8          1       19.1s                         -0.3961                 0.54               199.5      1.733       2.013
+round 27/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.4     0.9901        0.0s  active                       -                    -                   -      1.664       1.978
+  TOTAL     150      7.4     0.9901       20.4s                         -0.1174                 0.59               195.9      1.664       1.978
+round 28/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.052        0.0s  active                       -                    -                   -      1.628       2.107
+  TOTAL     150      7.5      1.052       20.1s                        -0.04553                 0.57               191.2      1.628       2.107
+round 29/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9863        0.0s  active                       -                    -                   -      1.608       1.978
+  TOTAL     150      7.5     0.9863       20.0s                         -0.4087                 0.58               209.5      1.608       1.978
+round 30/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.058        0.0s  active                       -                    -                   -      1.611       2.118
+  TOTAL     150      7.5      1.058       20.0s                          0.3406                 0.66               194.3      1.611       2.118
+round 31/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.097        0.0s  active                       -                    -                   -      1.647        2.21
+  TOTAL     150      7.5      1.097       20.1s                          0.2476                 0.63               188.4      1.647        2.21
+round 32/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.044        0.0s  active                       -                    -                   -      1.697       2.096
+  TOTAL     150      7.5      1.044       20.1s                         -0.4143                 0.54               196.8      1.697       2.096
+round 33/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.082        0.0s  active                       -                    -                   -      1.713       2.176
+  TOTAL     150      7.5      1.082       20.0s                         -0.5362                 0.54               199.6      1.713       2.176
+round 34/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5     0.9721        0.0s  active                       -                    -                   -      1.713       1.959
+  TOTAL     150      7.5     0.9721       20.1s                          -1.318                 0.48               227.8      1.713       1.959
+round 35/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.045        0.0s  active                       -                    -                   -      1.677       2.111
+  TOTAL     150      7.5      1.045       20.0s                        -0.03994                  0.6               196.7      1.677       2.111
+round 36/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.4      1.061        0.0s  active                       -                    -                   -      1.671       2.136
+  TOTAL     150      7.4      1.061       20.2s                         -0.4195                 0.55               201.3      1.671       2.136
+round 37/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.096        0.0s  active                       -                    -                   -      1.649       2.206
+  TOTAL     150      7.5      1.096       20.0s                        -0.09122                  0.6               198.2      1.649       2.206
+round 38/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.039        0.0s  active                       -                    -                   -      1.646       2.085
+  TOTAL     150      7.5      1.039       20.1s                          -1.288                 0.49               225.8      1.646       2.085
+round 39/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.033        0.0s  active                       -                    -                   -      1.652        2.07
+  TOTAL     150      7.5      1.033       20.0s                         -0.9292                 0.51               209.7      1.652        2.07
+round 40/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.035        0.0s  active                       -                    -                   -       1.68       2.077
+  TOTAL     150      7.5      1.035       19.9s                          -1.369                 0.46               220.9       1.68       2.077
+round 41/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5       1.06        0.0s  active                       -                    -                   -      1.675       2.131
+  TOTAL     150      7.5       1.06       20.0s                          0.3794                 0.64               183.3      1.675       2.131
+round 42/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.4      0.983        0.0s  active                       -                    -                   -      1.677       1.984
+  TOTAL     150      7.4      0.983       20.1s                           1.148                 0.73               168.8      1.677       1.984
+round 43/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.072        0.0s  active                       -                    -                   -      1.676       2.156
+  TOTAL     150      7.5      1.072       20.1s                          0.8993                 0.68               169.4      1.676       2.156
+round 44/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.117        0.0s  active                       -                    -                   -      1.696       2.253
+  TOTAL     150      7.5      1.117       20.1s                           1.292                 0.75               167.2      1.696       2.253
+round 45/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.136        0.0s  active                       -                    -                   -      1.707       2.285
+  TOTAL     150      7.5      1.136       20.0s                          0.3904                 0.64               182.4      1.707       2.285
+round 46/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.137        0.0s  active                       -                    -                   -      1.728       2.291
+  TOTAL     150      7.5      1.137       20.1s                           1.874                 0.79               150.4      1.728       2.291
+round 47/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.175        0.0s  active                       -                    -                   -      1.718        2.37
+  TOTAL     150      7.5      1.175       20.1s                           1.681                 0.75               148.7      1.718        2.37
+round 48/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.188        0.0s  active                       -                    -                   -      1.694       2.397
+  TOTAL     150      7.5      1.188       20.0s                           1.442                 0.75               158.7      1.694       2.397
+round 49/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.166        0.0s  active                       -                    -                   -      1.685       2.355
+  TOTAL     150      7.5      1.166       20.1s                           2.482                 0.85                 135      1.685       2.355
+round 50/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  nodo2     150      7.5      1.138        0.0s  active                       -                    -                   -      1.675       2.309
+  TOTAL     150      7.5      1.138       20.0s                           2.674                 0.89               137.6      1.675       2.309
+20:08:45  Training completed: 50 rounds, 7500 steps on nodo2 in 1091s

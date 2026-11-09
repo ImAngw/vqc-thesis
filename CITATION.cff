@@ -1,0 +1,35 @@
+# Citation metadata (https://citation-file-format.github.io/). Every value starting with TODO has to be filled in
+# or the line removed before the repository is published; `make test` counts the TODO fields left.
+cff-version: 1.2.0
+message: "If you use this repository, please cite the thesis below."
+title: "TODO: official title of the thesis"
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "TODO"
+repository-code: "TODO: https://github.com/<user>/<repository>"
+abstract: "TODO: two or three sentences (the summary of docs/report_testa_vqc.md can be adapted)."
+keywords:
+  - reinforcement learning
+  - variational quantum circuits
+  - generalization
+  - quantum machine learning
+date-released: "TODO: YYYY-MM-DD"
+# doi: "TODO: DOI of the Zenodo record of the artifact archive (artifacts/README.md), once published"
+
+preferred-citation:
+  type: thesis
+  title: "TODO: official title of the thesis"
+  authors:
+    - family-names: "TODO"
+      given-names: "TODO"
+  year: 0000  # TODO: year of the discussion
+  thesis-type: "Master's thesis"
+  institution:
+    name: "TODO: university"
+    # department: "TODO"
+    # city: "TODO"
+    # country: "IT"
+  # The supervisor and co-supervisor are not CFF fields: list them in the README if wanted.

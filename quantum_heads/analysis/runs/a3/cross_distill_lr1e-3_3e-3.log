@@ -1,0 +1,17 @@
+data ready: 40 teachers
+trained 720 students
+
+A3.3 cross-distillation (frozen teacher encoder): explained fraction on val and test return, mean +- SE over the 10 teachers (each teacher: mean of 3 init seeds at the chosen lr)
+  K=200 teacher F  <- student F     (lr 0.003): frac 0.983 +- 0.004, test 4.54 +- 0.22 (teacher 4.55)
+  K=200 teacher F  <- student J     (lr 0.003): frac 0.863 +- 0.007, test 4.25 +- 0.24 (teacher 4.55)
+  K=200 teacher F  <- student MLP64 (lr 0.003): frac 0.993 +- 0.001, test 4.55 +- 0.24 (teacher 4.55)
+  K=200 teacher J  <- student F     (lr 0.003): frac 0.889 +- 0.011, test 4.22 +- 0.27 (teacher 4.43)
+  K=200 teacher J  <- student J     (lr 0.003): frac 0.947 +- 0.009, test 4.36 +- 0.25 (teacher 4.43)
+  K=200 teacher J  <- student MLP64 (lr 0.003): frac 0.965 +- 0.002, test 4.45 +- 0.27 (teacher 4.43)
+  K= 25 teacher F  <- student F     (lr 0.003): frac 0.979 +- 0.008, test 3.72 +- 0.35 (teacher 3.83)
+  K= 25 teacher F  <- student J     (lr 0.003): frac 0.794 +- 0.013, test 3.73 +- 0.31 (teacher 3.83)
+  K= 25 teacher F  <- student MLP64 (lr 0.003): frac 0.989 +- 0.002, test 3.82 +- 0.34 (teacher 3.83)
+  K= 25 teacher J  <- student F     (lr 0.003): frac 0.876 +- 0.011, test 3.96 +- 0.45 (teacher 4.18)
+  K= 25 teacher J  <- student J     (lr 0.003): frac 0.945 +- 0.012, test 4.18 +- 0.39 (teacher 4.18)
+  K= 25 teacher J  <- student MLP64 (lr 0.003): frac 0.961 +- 0.002, test 4.22 +- 0.43 (teacher 4.18)
+saved quantum_heads/analysis/runs/a3/cross_distill.json

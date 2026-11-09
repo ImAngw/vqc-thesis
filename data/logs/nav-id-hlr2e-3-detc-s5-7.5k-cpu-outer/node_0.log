@@ -1,0 +1,202 @@
+slot 0/3 · 2 threads
+round 1/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     10.8     0.5289        0.0s  active                       -                    -                   -      2.041        1.14
+  TOTAL     150     10.8     0.5289       13.9s                          -3.206                 0.29               252.7      2.041        1.14
+round 2/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     11.0     0.6926        0.0s  active                       -                    -                   -      2.008        1.47
+  TOTAL     150     11.0     0.6926       13.6s                          -1.851                 0.43               232.7      2.008        1.47
+round 3/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     11.5     0.7248        0.0s  active                       -                    -                   -      1.944       1.541
+  TOTAL     150     11.5     0.7248       13.1s                         -0.5221                 0.53               205.3      1.944       1.541
+round 4/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     11.0     0.7816        0.0s  active                       -                    -                   -      1.885        1.64
+  TOTAL     150     11.0     0.7816       13.6s                         -0.5563                 0.54                 210      1.885        1.64
+round 5/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     10.0     0.9166        0.0s  active                       -                    -                   -      1.828       1.914
+  TOTAL     150     10.0     0.9166       15.1s                          0.1412                 0.59               187.1      1.828       1.914
+round 6/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.9     0.9587        0.0s  active                       -                    -                   -      1.814       1.993
+  TOTAL     150      9.9     0.9587       15.1s                          0.6732                 0.66               178.9      1.814       1.993
+round 7/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     10.2       0.98        0.0s  active                       -                    -                   -      1.772       2.016
+  TOTAL     150     10.2       0.98       14.7s                          0.5731                 0.64               177.7      1.772       2.016
+round 8/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150     10.0      1.047        0.0s  active                       -                    -                   -       1.75       2.137
+  TOTAL     150     10.0      1.047       14.9s                        0.009222                 0.59               194.5       1.75       2.137
+round 9/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.8      1.042        0.0s  active                       -                    -                   -       1.78       2.124
+  TOTAL     150      9.8      1.042       15.2s                          0.4897                 0.62               178.8       1.78       2.124
+round 10/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.7     0.9979        0.0s  active                       -                    -                   -      1.773       2.036
+  TOTAL     150      9.7     0.9979       15.4s                          0.6264                 0.63               174.3      1.773       2.036
+round 11/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.6      1.026        0.0s  active                       -                    -                   -      1.775       2.076
+  TOTAL     150      9.6      1.026       15.6s                          0.5764                 0.65               180.8      1.775       2.076
+round 12/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.9      1.078        0.0s  active                       -                    -                   -      1.822       2.179
+  TOTAL     150      9.9      1.078       15.1s                          0.5212                 0.63                 177      1.822       2.179
+round 13/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.7      1.066        0.0s  active                       -                    -                   -      1.776       2.163
+  TOTAL     150      9.7      1.066       15.5s                          0.1186                 0.58               186.5      1.776       2.163
+round 14/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.8      1.101        0.0s  active                       -                    -                   -      1.741       2.221
+  TOTAL     150      9.8      1.101       15.3s                          0.6747                 0.65               177.3      1.741       2.221
+round 15/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.6      1.079        0.0s  active                       -                    -                   -       1.72       2.167
+  TOTAL     150      9.6      1.079       15.6s                          0.9464                 0.66               164.3       1.72       2.167
+round 16/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      9.1      1.129        0.0s  active                       -                    -                   -      1.698       2.281
+  TOTAL     150      9.1      1.129       16.5s                          0.7604                 0.64               168.2      1.698       2.281
+round 17/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.7      1.099        0.0s  active                       -                    -                   -      1.692       2.208
+  TOTAL     150      8.7      1.099       17.2s                          0.7881                 0.67               174.2      1.692       2.208
+round 18/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.4      1.126        0.0s  active                       -                    -                   -      1.679        2.27
+  TOTAL     150      8.4      1.126       18.0s                           1.172                  0.7               159.9      1.679        2.27
+round 19/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.099        0.0s  active                       -                    -                   -      1.584       2.213
+  TOTAL     150      8.2      1.099       18.2s                          0.3005                 0.58               177.9      1.584       2.213
+round 20/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.4      1.109        0.0s  active                       -                    -                   -      1.578       2.232
+  TOTAL     150      8.4      1.109       17.9s                           1.356                 0.71               157.7      1.578       2.232
+round 21/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2       1.12        0.0s  active                       -                    -                   -      1.541       2.252
+  TOTAL     150      8.2       1.12       18.2s                          0.6936                 0.61               162.1      1.541       2.252
+round 22/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.4      1.104        0.0s  active                       -                    -                   -      1.549       2.214
+  TOTAL     150      8.4      1.104       17.9s                          0.7326                 0.64               168.3      1.549       2.214
+round 23/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.094        0.0s  active                       -                    -                   -      1.603        2.18
+  TOTAL     150      8.2      1.094       18.3s                          0.9868                 0.67               165.1      1.603        2.18
+round 24/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.086        0.0s  active                       -                    -                   -      1.669       2.156
+  TOTAL     150      8.2      1.086       18.4s                          0.9536                 0.66               166.4      1.669       2.156
+round 25/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.123        0.0s  active                       -                    -                   -      1.684       2.223
+  TOTAL     150      8.2      1.123       18.3s                          0.3905                 0.59               171.5      1.684       2.223
+round 26/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2       1.09        0.0s  active                       -                    -                   -      1.635       2.165
+  TOTAL     150      8.2       1.09       18.4s                          0.7871                 0.64               166.8      1.635       2.165
+round 27/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.3      1.092        0.0s  active                       -                    -                   -      1.626        2.17
+  TOTAL     150      8.3      1.092       18.2s                          0.7934                 0.65               171.2      1.626        2.17
+round 28/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.1      1.045        0.0s  active                       -                    -                   -      1.641       2.088
+  TOTAL     150      8.1      1.045       18.5s                          0.8725                 0.69               177.3      1.641       2.088
+round 29/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.0      1.005        0.0s  active                       -                    -                   -      1.618       2.022
+  TOTAL     150      8.0      1.005       18.6s                           1.327                  0.7               157.3      1.618       2.022
+round 30/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.044        0.0s  active                       -                    -                   -      1.628       2.104
+  TOTAL     150      8.2      1.044       18.4s                           1.257                 0.71               162.4      1.628       2.104
+round 31/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.1      1.077        0.0s  active                       -                    -                   -       1.62       2.157
+  TOTAL     150      8.1      1.077       18.6s                           1.202                  0.7                 161       1.62       2.157
+round 32/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.0      1.034        0.0s  active                       -                    -                   -      1.614       2.081
+  TOTAL     150      8.0      1.034       18.7s                           2.266                 0.81                 140      1.614       2.081
+round 33/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.2      1.137        0.0s  active                       -                    -                   -      1.637       2.285
+  TOTAL     150      8.2      1.137       18.4s                           1.373                 0.71               155.7      1.637       2.285
+round 34/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.1      1.144        0.0s  active                       -                    -                   -      1.648       2.307
+  TOTAL     150      8.1      1.144       18.5s                           1.475                 0.73               155.5      1.648       2.307
+round 35/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8      1.188        0.0s  active                       -                    -                   -      1.615       2.389
+  TOTAL     150      7.8      1.188       19.3s                            2.53                 0.85               137.4      1.615       2.389
+round 36/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.7      1.147        0.0s  active                       -                    -                   -      1.629       2.315
+  TOTAL     150      7.7      1.147       19.5s                           1.344                 0.75               162.6      1.629       2.315
+round 37/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.0       1.16        0.0s  active                       -                    -                   -      1.616       2.339
+  TOTAL     150      8.0       1.16       18.8s                           2.237                 0.81               137.2      1.616       2.339
+round 38/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.9      1.181        0.0s  active                       -                    -                   -      1.605       2.388
+  TOTAL     150      7.9      1.181       19.1s                           2.893                 0.87               122.5      1.605       2.388
+round 39/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.4      1.164        0.0s  active                       -                    -                   -      1.594       2.354
+  TOTAL     150      7.4      1.164       20.3s                            3.14                 0.88               112.4      1.594       2.354
+round 40/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8       1.13        0.0s  active                       -                    -                   -      1.609       2.281
+  TOTAL     150      7.8       1.13       19.2s                           2.676                 0.83               122.7      1.609       2.281
+round 41/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.7      1.144        0.0s  active                       -                    -                   -      1.625       2.303
+  TOTAL     150      7.7      1.144       19.5s                           3.126                 0.88               116.5      1.625       2.303
+round 42/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.7      1.083        0.0s  active                       -                    -                   -      1.634       2.183
+  TOTAL     150      7.7      1.083       19.6s                            3.75                 0.94               101.7      1.634       2.183
+round 43/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8      1.102        0.0s  active                       -                    -                   -      1.625       2.218
+  TOTAL     150      7.8      1.102       19.3s                           3.792                 0.95               99.72      1.625       2.218
+round 44/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.9      1.083        0.0s  active                       -                    -                   -      1.587       2.195
+  TOTAL     150      7.9      1.083       18.9s                           3.858                 0.92               93.64      1.587       2.195
+round 45/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      8.0      1.056        0.0s  active                       -                    -                   -      1.567        2.12
+  TOTAL     150      8.0      1.056       18.8s                           3.725                 0.93               101.1      1.567        2.12
+round 46/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8      1.071        0.0s  active                       -                    -                   -      1.557       2.155
+  TOTAL     150      7.8      1.071       19.2s                           4.106                 0.95               85.49      1.557       2.155
+round 47/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.5      1.039        0.0s  active                       -                    -                   -      1.545       2.083
+  TOTAL     150      7.5      1.039       20.1s                           4.356                 0.94               72.89      1.545       2.083
+round 48/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.9     0.9809        0.0s  active                       -                    -                   -      1.518       1.961
+  TOTAL     150      7.9     0.9809       19.0s                           4.298                 0.97                83.2      1.518       1.961
+round 49/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8     0.9759        0.0s  active                       -                    -                   -      1.519       1.964
+  TOTAL     150      7.8     0.9759       19.3s                           4.137                 0.95               82.51      1.519       1.964
+round 50/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  sample/success_rate  sample/length_mean    entropy  value_loss
+  mac       150      7.8     0.9647        0.0s  active                       -                    -                   -      1.526       1.939
+  TOTAL     150      7.8     0.9647       19.1s                           4.201                 0.94                80.6      1.526       1.939
+22:30:48  Training completed: 50 rounds, 7500 steps on mac in 956s

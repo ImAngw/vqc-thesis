@@ -1,0 +1,202 @@
+slot 1/4 · 2 threads
+round 1/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.9     0.3903        0.0s  active                       -                   -                        -                    -      2.029      0.8592
+  TOTAL     150     11.9     0.3903       12.7s                          -3.176              -7.072                   -3.938                 0.36      2.029      0.8592
+round 2/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.2     0.4856        0.0s  active                       -                   -                        -                    -      2.026       1.049
+  TOTAL     150     10.2     0.4856       14.6s                          -4.204               -7.35                   -3.472                 0.21      2.026       1.049
+round 3/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      8.3     0.5941        0.0s  active                       -                   -                        -                    -      2.046       1.261
+  TOTAL     150      8.3     0.5941       18.0s                           -3.06              -7.019                    -2.66                 0.33      2.046       1.261
+round 4/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.0      0.716        0.0s  active                       -                   -                        -                    -      2.044       1.508
+  TOTAL     150      9.0      0.716       16.6s                           -2.05              -6.952                   -1.339                 0.42      2.044       1.508
+round 5/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.4     0.7315        0.0s  active                       -                   -                        -                    -      2.016       1.544
+  TOTAL     150      9.4     0.7315       16.0s                          -1.121              -6.904                   -1.424                 0.51      2.016       1.544
+round 6/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.8     0.8268        0.0s  active                       -                   -                        -                    -      2.001       1.729
+  TOTAL     150      9.8     0.8268       15.3s                          -1.402              -6.935                   -1.783                 0.46      2.001       1.729
+round 7/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.2       0.88        0.0s  active                       -                   -                        -                    -      1.967       1.821
+  TOTAL     150     11.2       0.88       13.3s                         -0.3586              -6.343                  -0.6005                 0.58      1.967       1.821
+round 8/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5     0.9572        0.0s  active                       -                   -                        -                    -      1.936       1.973
+  TOTAL     150     11.5     0.9572       13.0s                         0.05531              -6.818                  0.04947                 0.61      1.936       1.973
+round 9/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.7     0.9738        0.0s  active                       -                   -                        -                    -      1.898       1.997
+  TOTAL     150     10.7     0.9738       14.1s                          0.3368              -6.699                   0.7816                 0.63      1.898       1.997
+round 10/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     12.2      1.026        0.0s  active                       -                   -                        -                    -      1.876       2.094
+  TOTAL     150     12.2      1.026       12.3s                          0.1069              -6.728                    1.439                  0.6      1.876       2.094
+round 11/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     14.1      1.048        0.0s  active                       -                   -                        -                    -      1.826        2.15
+  TOTAL     150     14.1      1.048       10.6s                          0.2759               -6.72                    1.304                  0.6      1.826        2.15
+round 12/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     12.0      1.155        0.0s  active                       -                   -                        -                    -      1.771       2.366
+  TOTAL     150     12.0      1.155       12.5s                          0.6064              -6.553                   0.5289                 0.63      1.771       2.366
+round 13/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.8      1.165        0.0s  active                       -                   -                        -                    -      1.761       2.389
+  TOTAL     150     11.8      1.165       12.7s                         -0.3563              -6.517                    1.657                 0.53      1.761       2.389
+round 14/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.7      1.224        0.0s  active                       -                   -                        -                    -      1.746       2.495
+  TOTAL     150     11.7      1.224       12.9s                          0.3393              -6.272                     2.56                  0.6      1.746       2.495
+round 15/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     12.1      1.246        0.0s  active                       -                   -                        -                    -      1.718       2.519
+  TOTAL     150     12.1      1.246       12.4s                         0.04111              -6.678                     2.69                 0.58      1.718       2.519
+round 16/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     12.1      1.378        0.0s  active                       -                   -                        -                    -      1.666       2.778
+  TOTAL     150     12.1      1.378       12.4s                          0.7552              -6.813                    2.637                 0.64      1.666       2.778
+round 17/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.9      1.392        0.0s  active                       -                   -                        -                    -       1.61       2.802
+  TOTAL     150     11.9      1.392       12.7s                         -0.1932               -6.77                    2.887                 0.55       1.61       2.802
+round 18/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5      1.379        0.0s  active                       -                   -                        -                    -      1.536       2.749
+  TOTAL     150     11.5      1.379       13.1s                          0.2167              -6.745                    2.604                 0.57      1.536       2.749
+round 19/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.9      1.437        0.0s  active                       -                   -                        -                    -       1.47       2.869
+  TOTAL     150     11.9      1.437       12.6s                         -0.3799              -6.787                    3.125                 0.53       1.47       2.869
+round 20/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     12.0      1.403        0.0s  active                       -                   -                        -                    -      1.395       2.807
+  TOTAL     150     12.0      1.403       12.5s                         -0.1209              -6.923                    3.226                 0.56      1.395       2.807
+round 21/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5      1.444        0.0s  active                       -                   -                        -                    -      1.313       2.918
+  TOTAL     150     11.5      1.444       13.0s                         -0.8654               -6.82                    3.073                 0.48      1.313       2.918
+round 22/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.4      1.383        0.0s  active                       -                   -                        -                    -      1.248       2.771
+  TOTAL     150     10.4      1.383       14.4s                          -1.603              -6.912                    3.155                  0.4      1.248       2.771
+round 23/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.6      1.444        0.0s  active                       -                   -                        -                    -       1.19       2.909
+  TOTAL     150     10.6      1.444       14.1s                          -2.124              -6.631                    3.093                 0.36       1.19       2.909
+round 24/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.5      1.486        0.0s  active                       -                   -                        -                    -      1.155       2.984
+  TOTAL     150     10.5      1.486       14.2s                          -2.445               -6.56                    3.186                 0.34      1.155       2.984
+round 25/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.2      1.501        0.0s  active                       -                   -                        -                    -      1.094       3.022
+  TOTAL     150     10.2      1.501       14.7s                          -2.232              -6.604                    3.093                 0.36      1.094       3.022
+round 26/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5      1.435        0.0s  active                       -                   -                        -                    -      1.043       2.877
+  TOTAL     150     11.5      1.435       13.0s                          -1.379              -6.258                    3.191                 0.44      1.043       2.877
+round 27/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.2      1.452        0.0s  active                       -                   -                        -                    -     0.9759       2.912
+  TOTAL     150     11.2      1.452       13.4s                          -1.484              -6.185                    3.198                 0.44     0.9759       2.912
+round 28/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.8      1.385        0.0s  active                       -                   -                        -                    -     0.9377       2.777
+  TOTAL     150     10.8      1.385       13.9s                          -1.057              -5.799                    3.198                 0.46     0.9377       2.777
+round 29/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.9      1.285        0.0s  active                       -                   -                        -                    -     0.9033       2.584
+  TOTAL     150     11.9      1.285       12.6s                          -1.205              -6.201                    3.252                 0.47     0.9033       2.584
+round 30/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5      1.262        0.0s  active                       -                   -                        -                    -     0.8637       2.538
+  TOTAL     150     11.5      1.262       13.1s                          -1.557              -6.752                     3.24                 0.43     0.8637       2.538
+round 31/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.4      1.237        0.0s  active                       -                   -                        -                    -     0.8433       2.505
+  TOTAL     150     11.4      1.237       13.1s                           -1.38              -6.477                    3.192                 0.46     0.8433       2.505
+round 32/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.6      1.199        0.0s  active                       -                   -                        -                    -      0.834       2.426
+  TOTAL     150     10.6      1.199       14.1s                          -1.294              -6.017                    3.233                 0.44      0.834       2.426
+round 33/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.5      1.234        0.0s  active                       -                   -                        -                    -     0.8177       2.478
+  TOTAL     150     11.5      1.234       13.1s                          -1.882               -6.25                    3.188                 0.37     0.8177       2.478
+round 34/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.8       1.34        0.0s  active                       -                   -                        -                    -      0.789        2.67
+  TOTAL     150     11.8       1.34       12.7s                          -2.574              -6.337                    3.206                 0.34      0.789        2.67
+round 35/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     11.8      1.331        0.0s  active                       -                   -                        -                    -      0.776       2.667
+  TOTAL     150     11.8      1.331       12.7s                          -2.302               -6.66                    2.911                 0.39      0.776       2.667
+round 36/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.8      1.292        0.0s  active                       -                   -                        -                    -     0.7808       2.607
+  TOTAL     150     10.8      1.292       13.8s                          -2.142              -6.276                    3.175                 0.39     0.7808       2.607
+round 37/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.7      1.273        0.0s  active                       -                   -                        -                    -     0.7343       2.553
+  TOTAL     150     10.7      1.273       14.0s                          -1.394              -6.475                    3.248                 0.44     0.7343       2.553
+round 38/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.0      1.165        0.0s  active                       -                   -                        -                    -     0.6533       2.341
+  TOTAL     150      9.0      1.165       16.7s                          -1.876              -6.253                    3.187                  0.4     0.6533       2.341
+round 39/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.9      1.165        0.0s  active                       -                   -                        -                    -     0.6126       2.338
+  TOTAL     150      9.9      1.165       15.1s                          -2.137              -6.008                     3.14                 0.37     0.6126       2.338
+round 40/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.0      1.231        0.0s  active                       -                   -                        -                    -     0.6221       2.449
+  TOTAL     150     10.0      1.231       15.0s                          -2.182              -6.345                     3.32                 0.37     0.6221       2.449
+round 41/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.2      1.363        0.0s  active                       -                   -                        -                    -     0.6493       2.713
+  TOTAL     150     10.2      1.363       14.8s                          -2.698              -6.883                    3.134                 0.34     0.6493       2.713
+round 42/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     10.6      1.369        0.0s  active                       -                   -                        -                    -     0.6864       2.736
+  TOTAL     150     10.6      1.369       14.2s                          -2.312               -6.23                    3.237                 0.38     0.6864       2.736
+round 43/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150      9.8      1.459        0.0s  active                       -                   -                        -                    -     0.6929       2.902
+  TOTAL     150      9.8      1.459       15.3s                          -3.245              -6.413                    3.329                 0.27     0.6929       2.902
+round 44/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     13.4      1.501        0.0s  active                       -                   -                        -                    -     0.6962       2.999
+  TOTAL     150     13.4      1.501       11.2s                          -3.164              -6.015                    3.485                 0.28     0.6962       2.999
+round 45/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     13.6      1.491        0.0s  active                       -                   -                        -                    -     0.6665       3.002
+  TOTAL     150     13.6      1.491       11.0s                          -1.686              -5.902                    3.625                  0.4     0.6665       3.002
+round 46/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     13.4       1.47        0.0s  active                       -                   -                        -                    -     0.6247       2.954
+  TOTAL     150     13.4       1.47       11.2s                          -1.778               -5.58                    4.159                  0.4     0.6247       2.954
+round 47/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     13.2      1.402        0.0s  active                       -                   -                        -                    -     0.6209       2.818
+  TOTAL     150     13.2      1.402       11.4s                          -2.085              -5.459                     4.66                 0.36     0.6209       2.818
+round 48/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     13.8      1.239        0.0s  active                       -                   -                        -                    -     0.6087       2.496
+  TOTAL     150     13.8      1.239       10.9s                            -2.3              -5.764                    5.149                 0.35     0.6087       2.496
+round 49/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     14.5     0.9378        0.0s  active                       -                   -                        -                    -      0.578       1.909
+  TOTAL     150     14.5     0.9378       10.3s                          -1.877              -4.732                    5.126                 0.37      0.578       1.909
+round 50/50
+  node    steps  steps/s       loss  sync/round  state       sample/return_mean  greedy/return_mean  pool/sample/return_mean  sample/success_rate    entropy  value_loss
+  mac       150     14.5     0.7045        0.0s  active                       -                   -                        -                    -     0.5688       1.468
+  TOTAL     150     14.5     0.7045       10.4s                          -1.054              -5.696                    5.154                 0.45     0.5688       1.468
+20:21:12  Training completed: 50 rounds, 7500 steps on mac in 835s
