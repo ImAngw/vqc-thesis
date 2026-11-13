@@ -55,7 +55,7 @@ Match `rl_env/env.py`: English docstrings, `(x, y)` = (column, row), `_private` 
 - [ ] mlp16 at or below ~50 ms/update with the profile script (baseline 116 ms).
 
 ## Out of Scope
-Batched or vectorized env, `AsyncVectorEnv` or multi-process collection, multi-node with `parallel-train`, optimizing the A2C update or the VQC heads, the `vqc` / `vqc-reup3` shape crash at `quantum_heads/vqc_head_h.py:79`, and removing `SyncVectorEnv`.
+Batched or vectorized env, `AsyncVectorEnv` or multi-process collection, multi-node training, optimizing the A2C update or the VQC heads, the `vqc` / `vqc-reup3` shape crash at `quantum_heads/vqc_head_h.py:79`, and removing `SyncVectorEnv`.
 
 ## Open Questions
 1. Should eval keep the same thread setting? (Assumed yes: it runs in the same process.)

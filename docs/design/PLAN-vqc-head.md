@@ -245,7 +245,7 @@ evaluation stopped after 3 of 6 students; speed of HR3 not measured (3 fused mat
 - **Allowed levers:** optimization dynamics of the head; the `VQCHeadI` circuit (via `/vqc-simulator:vqc-to-pytorch`).
 - **Constraints:** Born readout (no temperatures / scaled logits); `ent_coef` and any other A2C-loop parameter only if
   identical for VQC and MLP (h128 rerun with the same change); same seeds, split_init, budget (7.5k updates,
-  parallel-train cpu, outer step 0.7/0.9, anneal_by=steps), comparison against h128.
+  cpu, outer step 0.7/0.9, anneal_by=steps), comparison against h128.
 - **Out of scope:** distillation capacity diagnosis; encoder and post-processing; VQC-only A2C-loop hyperparameters;
   noisy path.
 

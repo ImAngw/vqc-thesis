@@ -64,7 +64,7 @@ Greedy:   (you) .venv/bin/python scripts/summarize_eval_metrics.py 'gen-*' 'ent-
 - **Registry:** `fourier4` builds through `build_policy` with `perception=cnn, window=5`, and a 2-update
   `A2CTrainer` run works.
 - **Existing suite:** passes unchanged.
-- **Smoke run** of one `ent-four` config, 2 rounds, through parallel-train before queueing.
+- **Smoke run** of one `ent-four` config, 2 rounds, with `train.py` before launching the rest.
 
 ## Boundaries
 - **Always:**

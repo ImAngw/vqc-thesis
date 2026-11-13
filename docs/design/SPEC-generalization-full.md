@@ -93,8 +93,8 @@ entropy during training. Reading as above: J - X(T) per seed with its CI.
 Do J and Fourier compute the same kind of policy, beyond equal returns? At K=25 (no difference detected, wide CI)
 and K=200 (no difference detected, narrow CI: the cleanest place to ask whether equal returns mean the same
 function). Runs `gen-nav-id-k{25,200}-s{0..9}` and `gen-four-k{25,200}-s{0..9}`, weights `model_latest.pt`
-(round 50, end of the 41-50 window). Runs from nodo1/nodo2 have light copies here: their checkpoints are fetched
-first (`parallel-train fetch NAME`), read-only. The policy is feedforward (memory is part of the observation), so
+(round 50, end of the 41-50 window). Runs from other machines have light copies here: their checkpoints are copied
+first, read-only. The policy is feedforward (memory is part of the observation), so
 any policy can be evaluated on any state.
 
 **A3.1 Policy distance.** For each run, 2000 observations from its own rollouts with sampled actions on the 100
