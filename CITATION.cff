@@ -1,34 +1,28 @@
-# Citation metadata (https://citation-file-format.github.io/). Every value starting with TODO has to be filled in
-# or the line removed before the repository is published; `make test` counts the TODO fields left.
 cff-version: 1.2.0
 message: "If you use this repository, please cite the thesis below."
-title: "TODO: official title of the thesis"
+title: "Quantum Reinforcement Learning: generalizzare con pochi ambienti di training"
 type: software
 authors:
-  - family-names: "TODO"
-    given-names: "TODO"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-    # affiliation: "TODO"
-repository-code: "TODO: https://github.com/<user>/<repository>"
-abstract: "TODO: two or three sentences (the summary of docs/report_testa_vqc.md can be adapted)."
+  - family-names: "Caponnetto"
+    given-names: "Angelo"
+    affiliation: "Università degli Studi di Firenze"
+repository-code: "https://github.com/ImAngw/vqc-thesis"
+abstract: "Study of a reinforcement-learning policy whose action head is a variational quantum circuit, on partially observable 2D grid navigation. With few training layouts (K=25) the quantum head generalises better than a classical MLP of the same size, also at equal entropy; a classical head with Fourier features matches it, so the advantage is a Fourier-type inductive bias. Under calibrated IBM noise (Torino, Brisbane) the loss in return is small."
 keywords:
   - reinforcement learning
   - variational quantum circuits
   - generalization
   - quantum machine learning
-date-released: "TODO: YYYY-MM-DD"
 
 preferred-citation:
   type: thesis
-  title: "TODO: official title of the thesis"
+  title: "Quantum Reinforcement Learning: generalizzare con pochi ambienti di training"
   authors:
-    - family-names: "TODO"
-      given-names: "TODO"
-  year: 0000  # TODO: year of the discussion
+    - family-names: "Caponnetto"
+      given-names: "Angelo"
+  year: 2026
   thesis-type: "Master's thesis"
   institution:
-    name: "TODO: university"
-    # department: "TODO"
-    # city: "TODO"
-    # country: "IT"
+    name: "Università degli Studi di Firenze"
+    country: "IT"
   # The supervisor and co-supervisor are not CFF fields: list them in the README if wanted.
