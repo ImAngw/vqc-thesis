@@ -2,7 +2,7 @@ PY ?= .venv/bin/python
 LOGS = data/logs
 REF = nav-id-hlr2e-3-detc-s*-7.5k-cpu-outer=nav-id:inf
 
-.PHONY: setup test figures tables thesis clean
+.PHONY: setup test figures tables clean
 
 setup:
 	python3.13 -m venv .venv
@@ -21,10 +21,6 @@ tables:
 	mkdir -p results
 	$(PY) scripts/summarize_gen_pilot.py 'gen-*' 'ent-*' --logs $(LOGS) --ref '$(REF)' > results/tables_4_7.txt
 	$(PY) scripts/summarize_noise.py > results/tables_11_12.txt
-
-# the thesis (needs TeX Live with pdfx, biber and veraPDF; see thesis/README.md)
-thesis:
-	$(MAKE) -C thesis check PYTHON=$(abspath $(PY))
 
 clean:
 	rm -rf results .pytest_cache

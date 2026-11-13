@@ -24,7 +24,6 @@ make setup      # virtual environment + pinned requirements
 make test       # unit tests (Qiskit equivalence of the circuits included) + repository checks
 make figures    # docs/figures/partA_curve_k.png and partB_noise.png
 make tables     # results/tables_4_7.txt and tables_11_12.txt: tables 4-7 and 11-12 of the report
-make thesis     # builds and checks thesis/build/tesi.pdf (needs TeX Live, biber, veraPDF; see thesis/README.md)
 ```
 
 `make figures` and `make tables` read the round logs in `data/logs/` and the Part B results in
@@ -56,10 +55,10 @@ classic_heads/   MLP, shared linear head, Fourier head
 vqc_core/        statevector and density-matrix simulators, noise channels
 quantum_heads/   VQC heads I, J, K, their Qiskit reference circuits and tests
   analysis/      distillation, policy-equivalence and cross-distillation scripts; runs/ holds their results
-scripts/         tables, figures, noisy evaluation (effective model and full Aer), artifact scripts
+scripts/         tables, figures, noisy evaluation (effective model and full Aer)
 data/logs/       round logs of the runs of the report
 docs/            report, design documents (docs/design), figures
-thesis/          LaTeX source of the thesis (PDF/A-2b), generated tables, bibliography and its verification log
+thesis.pdf       the thesis (PDF/A-2b, in Italian); its LaTeX sources are not published
 train.py         entry point of a training run
 ```
 

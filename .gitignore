@@ -8,4 +8,5 @@ __pycache__/
 /results/
 # trained weights, not distributed
 /checkpoints/
-/thesis/build/
+/thesis/
+/docs/models/
