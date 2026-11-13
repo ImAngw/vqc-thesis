@@ -2,7 +2,7 @@ PY ?= .venv/bin/python
 LOGS = data/logs
 REF = nav-id-hlr2e-3-detc-s*-7.5k-cpu-outer=nav-id:inf
 
-.PHONY: setup test fetch figures tables thesis clean
+.PHONY: setup test figures tables thesis clean
 
 setup:
 	python3.13 -m venv .venv
@@ -11,10 +11,6 @@ setup:
 test:
 	$(PY) -m pytest -q
 	bash scripts/verify_repo.sh
-
-# checkpoints and raw data that are not in git (see artifacts/README.md)
-fetch:
-	bash scripts/fetch_artifacts.sh
 
 figures:
 	$(PY) scripts/plot_gen_curve.py --logs $(LOGS) --out docs/figures/partA_curve_k.png

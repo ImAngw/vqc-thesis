@@ -105,15 +105,16 @@ make tables     # tables 4-7 (return per head and K, entropy control, paired dif
 make figures    # figure of the curve in K (section 6) and of the noise robustness (section 9)
 ```
 
-Table 8 (greedy return) reads the per-round evaluation files `data/checkpoints/<run>/metrics.jsonl`, written by
-`scripts/pack_artifacts.sh`:
+Table 8 (greedy return) reads the per-round evaluation files `<checkpoints>/<run>/metrics.jsonl` of the report's runs.
+They are not distributed and `train.py` does not write them, so this table cannot be rebuilt from this repository alone
+(ask the author for the files); with them in place:
 
 ```
-python scripts/summarize_eval_metrics.py 'gen-*' 'ent-*' --checkpoints data/checkpoints \
+python scripts/summarize_eval_metrics.py 'gen-*' 'ent-*' --checkpoints checkpoints \
   --ref 'nav-id-hlr2e-3-detc-s*-7.5k-cpu-outer=nav-id:inf'
 ```
 
-## Analyses on trained runs (need `make fetch`)
+## Analyses on trained runs (need the weights of the runs: retrain them or ask the author)
 
 ```
 # section 8: distance between policies, periods of the data gates, temperature control, cross-distillation

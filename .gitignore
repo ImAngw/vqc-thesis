@@ -6,7 +6,6 @@ __pycache__/
 # produced by train.py and make targets
 /logs/
 /results/
-# downloaded by `make fetch`
+# trained weights, not distributed
 /checkpoints/
-artifacts/*.tar.gz
 /thesis/build/

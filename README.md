@@ -29,13 +29,14 @@ make thesis     # builds and checks thesis/build/tesi.pdf (needs TeX Live, biber
 
 `make figures` and `make tables` read the round logs in `data/logs/` and the Part B results in
 `quantum_heads/analysis/runs/noise/`, both in the repository; they take seconds. The trained weights and the raw data of
-the distillation analyses are not in git: `make fetch` downloads them (see [`artifacts/README.md`](artifacts/README.md)).
+the distillation analyses are not distributed: to repeat the analyses that need them, retrain the runs (see
+[`docs/REPRODUCE.md`](docs/REPRODUCE.md)) or ask the author.
 
 ## What is reproducible, and how exactly
 
 1. **Figures and tables of the report.** From the shipped logs and results: both figures, tables 4-7 (curve in K,
    entropy control, paired differences, overfitting) and tables 11-12 (noise); the output matches the report. Table 8
-   (greedy return), table 9 and 10 (policy distance, cross-distillation) need the archive (`make fetch`); see
+   (greedy return), table 9 and 10 (policy distance, cross-distillation) need the trained weights, which are not distributed (retrain the runs or ask the author); see
    `docs/REPRODUCE.md`.
 2. **Entropy-target sweep.** The 80 runs of the sweep of the thesis (MLP h5 and h128 at K=25, four entropy targets, 10
    seeds) are in `data/logs/ent-sweep-*`; `python scripts/summarize_entropy_sweep.py --logs data/logs` rebuilds the table
